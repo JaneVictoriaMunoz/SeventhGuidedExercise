@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SeventhGuidedExercise</string>
+    <string name="rating">Rating</string>
+    <string name="close">Close</string>
+    <string name="click">Click</string>
+    <string name="rating_bar_and_alert_dialog_guided_exercise">Rating Bar and Alert Dialog Guided Exercise</string>
+</resources>
